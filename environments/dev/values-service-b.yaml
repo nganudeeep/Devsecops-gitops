@@ -2,7 +2,7 @@ replicaCount: 1
 
 image:
   repository: nganudeep99/service-b
-  tag: "56802c9"
+  tag: 106bfaf
   pullPolicy: Always
 
 service:
